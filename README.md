@@ -1,3 +1,3 @@
 # Deep-Learning-Projects
 
-A set of Basic Projects done for learning purposes
+A set of basic and standard Projects done while learning.
